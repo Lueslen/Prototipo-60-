@@ -145,8 +145,18 @@ h1 {
     color: #fff;
     position: absolute;
     top: 55px;
-    left: 20px;
+    left: 15px;
 }
+
+.midias {
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+    color: rgb(7, 6, 6);
+    position: relative;
+    top: 400px;
+}
+
 /*END ESTILIZACAO DA TELA 1*/
 
 /*START ESTILIZACAO DO TUTORIAL*/
