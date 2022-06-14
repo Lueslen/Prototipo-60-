@@ -94,6 +94,16 @@ h1 {
     top: 150px;
     left: 50px;
 }
+#botao2 {
+    position: absolute;
+    top: 200px;
+    left: 45px;
+}
+#botao3 {
+    position: absolute;
+    top: 250px;
+    left: 25px;
+}
 .icons-grid-main {
     display: grid;
     justify-items: center;
@@ -154,7 +164,7 @@ h1 {
     justify-content: space-around;
     color: rgb(7, 6, 6);
     position: relative;
-    top: 400px;
+    top: 500px;
 }
 
 /*END ESTILIZACAO DA TELA 1*/
